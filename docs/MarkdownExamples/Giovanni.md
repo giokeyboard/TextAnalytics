@@ -1,3 +1,24 @@
+Here's how to show code:
+
+``` python
+def save_state(params):
+   model_data = extracted.get("stringify")
+   
+   checkpoint = {"input_size" = 700,
+                 "output_size" = 130,
+                 "configuration" = 1}
+   model.data.save()
+```
+
+``` java
+public static void main(String args[]) {
+   String myVar = "Here's a variable";
+   myVar.toUpperCase();
+}
+```
+
+This is just `one property = "value"`
+
 Android | iOS | Windows
 --- | :---: | ---:
 ~~Medium app for Android~~ | **Medium app for iOS** | _Medium app for Win_
