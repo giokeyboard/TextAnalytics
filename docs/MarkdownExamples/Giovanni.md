@@ -1,3 +1,14 @@
+Android | iOS | Windows
+--- | :---: | ---:
+~~Medium app for Android~~ | **Medium app for iOS** | _Medium app for Win_
+asiduaisu di aisdji asidjaisjd iajsdijasidja isdj asdokaos dksdkdksda| djgijriwjeo eidfjso dij dsofijs d asidiajsdijasi djai sd| sodifjsdoifjoIDJOASIJDISDJF
+[Play Store](https://play.google.com/store) | [AppStore](http://appstore.com/)|[just some link! LOL](https://google.com)
+![](https://www.droid-life.com/wp-content/uploads/2012/01/android-logo.png) | ![Some text here](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png "Hey look at this!") | ![](https://maxcdn.icons8.com/Share/icon/color/Operating_Systems/windows_logo1600.png) 
+
+
+
+
+
 I'm going to **talk gibberish** here, this is just to demonstrate _markdown_.
 
 We can of course write a quote block:
